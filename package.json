@@ -1,0 +1,29 @@
+{
+  "name": "wang-cli",
+  "version": "1.0.0",
+  "description": "汪荣建的第一个demo-cli实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuWangsu/wang-cli.git"
+  },
+  "keywords": [
+    "Wrj052611@"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.2",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.2"
+  },
+  "author": "wangrj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuWangsu/wang-cli/issues"
+  },
+  "homepage": "https://github.com/shuWangsu/wang-cli#readme"
+}
